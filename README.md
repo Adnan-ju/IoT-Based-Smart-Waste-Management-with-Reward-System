@@ -1,8 +1,4 @@
-Below is a concise README file in Markdown (.md) format for the IoT-Based Smart Waste Management System with Reward System, optimized for GitHub. It focuses on key features and system workflow, summarizing the project report provided, while keeping the content brief and relevant.
 
-markdown
-
-Copy
 # IoT-Based Smart Waste Management System with Reward System
 
 ## Overview
